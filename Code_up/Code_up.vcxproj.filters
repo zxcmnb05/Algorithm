@@ -18,5 +18,8 @@
     <ClCompile Include="코드업 1265.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="코드업 1266.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
