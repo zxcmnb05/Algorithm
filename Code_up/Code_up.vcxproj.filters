@@ -13,22 +13,31 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\코드업">
+      <UniqueIdentifier>{c87b4455-3b54-4be7-b207-96432e0c774f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\프로그래머스">
+      <UniqueIdentifier>{09ef6650-26ed-479e-9c18-f3789c678e6d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="코드업 1271.c">
+      <Filter>소스 파일\코드업</Filter>
+    </ClCompile>
     <ClCompile Include="코드업 1265.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\코드업</Filter>
     </ClCompile>
     <ClCompile Include="코드업 1266.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\코드업</Filter>
     </ClCompile>
     <ClCompile Include="코드업 1267.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\코드업</Filter>
     </ClCompile>
     <ClCompile Include="코드업 1268.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\코드업</Filter>
     </ClCompile>
-    <ClCompile Include="코드업 1271.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="두 정수 사이의 합.c">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
