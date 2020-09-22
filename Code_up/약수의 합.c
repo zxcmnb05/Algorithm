@@ -2,19 +2,19 @@
 #pragma warning (disable : 4996)
 
 int solution(int n) {
-	int answer = n;
-	printf("%d", answer);
-	return answer;
+    int answer = 0;
+    int count = 0;
+    for (int i = 1; i <= n; i++) {
+        if (n % i == 0) {
+            count += i;
+        }
+    }
+    answer = count;
+    return answer;
 }
 
 int main() {
-	int a;
-	int count = 0;
-	scanf("%d", &a);
-	for (int i = 1; i <= a; i++) {
-		if (a % i == 0) {
-			count += i;
-		}
-	}
-	solution(count);
+	int n;
+	scanf("%d", &n);
+	solution(n);
 }
