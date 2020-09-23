@@ -2,7 +2,15 @@
 #pragma warning(disable : 4996)
 
 int main() {
-	char a;
-	scanf("%c", &a);
-	printf("%c", a);
+	int a;
+	int max = 0;
+	int b;
+	scanf("%d", &a);
+	for (int i = 1; i <= a; i++) {
+		scanf("%d", &b);
+		if (b >= max) {
+			max = b;
+		}
+	}
+	printf("%d", max);
 }
