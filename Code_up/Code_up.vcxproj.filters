@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\프로그래머스">
       <UniqueIdentifier>{09ef6650-26ed-479e-9c18-f3789c678e6d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준">
+      <UniqueIdentifier>{3b3a3ec2-038d-4c56-a6aa-288e8b2de766}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="코드업 1271.c">
@@ -44,6 +47,9 @@
     </ClCompile>
     <ClCompile Include="자릿수 더하기.c">
       <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10869번.c">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
