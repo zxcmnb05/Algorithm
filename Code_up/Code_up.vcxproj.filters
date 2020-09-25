@@ -51,5 +51,8 @@
     <ClCompile Include="백준 10869번.c">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
+    <ClCompile Include="코드업 1270.c">
+      <Filter>소스 파일\코드업</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

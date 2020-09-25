@@ -9,4 +9,4 @@ int main() {
     printf("%d\n", A * B);
     printf("%d\n", A / B);
     printf("%d", A % B);
-}
+}   
