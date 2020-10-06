@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\백준">
       <UniqueIdentifier>{3b3a3ec2-038d-4c56-a6aa-288e8b2de766}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\자료구조">
+      <UniqueIdentifier>{b26199f3-a0a9-4afd-b6c6-695ff80b6728}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="코드업 1271.c">
@@ -59,6 +62,12 @@
     </ClCompile>
     <ClCompile Include="백준 8393.c">
       <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="하노이 탑.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="에라토스테네스의 체.c">
+      <Filter>소스 파일\자료구조</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
