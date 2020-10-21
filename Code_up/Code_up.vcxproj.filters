@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\자료구조">
       <UniqueIdentifier>{b26199f3-a0a9-4afd-b6c6-695ff80b6728}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{bb89c8e1-54c8-4162-8be8-4e93ebbcd598}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="코드업 1271.c">
@@ -68,6 +71,9 @@
     </ClCompile>
     <ClCompile Include="에라토스테네스의 체.c">
       <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="삽입 정렬.c">
+      <Filter>소스 파일\정렬</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
